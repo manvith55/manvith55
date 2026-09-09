@@ -33,7 +33,7 @@ I am a passionate **Software Engineer** and **Java Full Stack Developer** specia
 - Includes a live timer, score tracking, audio effects, and best-score persistence via Local Storage.
 - 🔗 [Live Demo](https://manvith55.github.io/insect-game/)
   
-#### 🤖 [AI Resume Intelligence Platform]{https://github.com/manvith55/ai-resume-platform}
+#### 🤖 [AI Resume Intelligence Platform](https://github.com/manvith55/ai-resume-platform)
 
 *An AI-powered recruitment and resume optimization platform.*
 
