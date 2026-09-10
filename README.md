@@ -42,7 +42,7 @@ Includes AI Resume Screener with batch resume processing, ranking, skill matchin
 Provides an ATS Resume Builder with resume analysis, improvement suggestions, and downloadable .docx resumes.
 Uses a deterministic-first hybrid scoring engine with optional AI explanations and rewrites.
 
-#### 🏦 [Smart Digital Banking & Fraud Detection System]
+#### 🏦 Smart Digital Banking & Fraud Detection System
 
 *A full-stack banking application with secure transactions and rule-based fraud detection.*
 
